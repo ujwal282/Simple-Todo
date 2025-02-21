@@ -213,8 +213,7 @@ img:hover {
     height: 100dvh;
     padding: 1.5rem;
   }
-  .search {
-    padding-bottom: 1rem;
+  .search {
     font-size: 1rem;
   }
   input::placeholder {
